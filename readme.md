@@ -18,9 +18,9 @@
 
 
 
-[^1]: [      Clustering validity assessment: Finding the optimal partitioning of a data set](http://ieeexplore.ieee.org/abstract/document/989517/) （[下载地址](http://datamining.rutgers.edu/publication/internalmeasures.pdf)）
+[^1]: [Understanding of Internal Clustering Validation Measures](http://datamining.rutgers.edu/publication/internalmeasures.pdf)
 
-[^2]: [     Add more unsupervised clustering metrics #6654](https://github.com/scikit-learn/scikit-learn/issues/6654)
+[^2]: [Add more unsupervised clustering metrics #6654](https://github.com/scikit-learn/scikit-learn/issues/6654)
 
 [^3]: [NbClust: An R Package for Determining the Relevant Number of Clusters in a Data Set](https://www.jstatsoft.org/article/view/v061i06/v61i06.pdf)
 

@@ -1,6 +1,6 @@
 # S_Dbw validity index
 
-> 代码全解析，可另见博文：https://iphysresearch.github.io/post/S_Dbw.html
+> 代码全解析，可另见博文：https://iphysresearch.github.io/posts/S_Dbw.html
 
 此文的 motivation 来自于近期接的某无监督 k-means 聚类项目，并计划是用基于 K-means 算法的 [`k-prototypes`](https://github.com/nicodv/kmodes) 聚类算法来打发了事。为了对聚类结果给出合理靠谱的评估评价，最终决定主要参考 `S_Dbw` 评估指标，并且打算写作此文，非原理性的解析 `S_Dbw`，原因有二：
 
